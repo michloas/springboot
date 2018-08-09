@@ -44,6 +44,26 @@
 			<scope>true</scope>
 		</dependency>
 
+		<!--jpa依赖-->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-jpa</artifactId>
+		</dependency>
+
+		<!--mysql依赖-->
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>5.1.21</version>
+		</dependency>
+
+		<!--druid依赖-->
+		<dependency>
+			<groupId>com.alibaba</groupId>
+			<artifactId>druid</artifactId>
+			<version>1.0.31</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
