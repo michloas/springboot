@@ -1,4 +1,4 @@
-package com.michloas.springboot;
+package com.michloas.springboot.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

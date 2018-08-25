@@ -1,4 +1,4 @@
-package com.michloas.springboot;
+package com.michloas.springboot.controller;
 
 import java.util.Iterator;
 import java.util.List;
